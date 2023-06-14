@@ -36,8 +36,8 @@ jobs:
       - name: Build with Vite.js
         run: npm run build
       - name: Deploy to GitHub Pages
-        uses: Portfolio/actions-main@v3
+        uses: Portfolio/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: main
+          publish_branch: gh-pages

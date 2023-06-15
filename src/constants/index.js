@@ -126,11 +126,11 @@ const education = [
     company_name: "G H Raisoni Institute of Engineering and Technology,Nagpur",
     icon: ghrietn,
     iconBg: "#383E56",
-    date: "Feb 2023 - May 2023",
+    date: "Dec 2020 - July 2024",
     points: [
-      "As a Intern at Procohat, I actively contributed to the development",
-      "of the company website while acquiring valuable skills in UI/UX design",
-      "principles and successfully implementing them into the project .",
+      "I had learned various skill and knowledge related to DSA,ML,NLP",
+      "and various Technologies which helps me to stay connected with modern world",
+      "and enable me to contribute in development."
     ],
   },
   {
@@ -138,11 +138,10 @@ const education = [
     company_name: "Kendriya Vidyalaya Chirimiri",
     icon: kvs,
     iconBg: "#E6DEDD",
-    date: "Oct 2021 - Nov 2021",
+    date: "April 2019 - June 2020",
     points: [
-      "Develop solutions for real-world financial scenarios. Collaborating",
-      "with a team, I successfully completed tasks such as data visualization",
-      "and analysis, algorithmic trading, and building a chatbot interface. ", 
+      "I had learned Subjects Physics ,Chemestry,Maths,Computer Science,English",
+      "I had Scored 85 Percentage" 
     ],
   },
   {
@@ -150,13 +149,10 @@ const education = [
     company_name: "Kendriya Vidyalaya Chirimiri",
     icon: kvs,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "April 2018 - April 2019",
     points: [
-      "I actively contributed to various data-driven projects,",
-      "gaining hands-on experience in data pre-processing,",
-      "exploratory data analysis, machine learning, and predictive modelling. ",
-      "I collaborated with the team to extract insights from data,",
-      "develop statistical models.",
+      "I had gain the knowledge related to various Subjective domains",
+      "I had Scored 71.2 Percentage"
     ],
   },
   

@@ -188,7 +188,7 @@ const experiences = [
     company_name: "Letsgrowmore",
     icon: grow,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Sep 2021 - Oct 2021",
     points: [
       "I actively contributed to various data-driven projects,",
       "gaining hands-on experience in data pre-processing,",
